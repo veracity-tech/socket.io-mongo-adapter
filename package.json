@@ -1,5 +1,5 @@
 {
-  "name": "@socket.io/mongo-adapter",
+  "name": "@socket.io/mongo-adapter-singleton",
   "version": "0.1.0",
   "description": "The Socket.IO MongoDB adapter, allowing to broadcast events between several Socket.IO servers",
   "license": "MIT",
